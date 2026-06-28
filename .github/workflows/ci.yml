@@ -34,4 +34,4 @@ jobs:
         ls
     - name: Construir imagen Docker
       run: |
-        docker build -t ventas-inmuebles .
+        docker build -t tourism-analytics .
