@@ -35,4 +35,4 @@ jobs:
     - name: Construir imagen Docker
       run: |
         docker build -t tourism-analytics .
-```
+```        docker build -t ventas-inmuebles .
